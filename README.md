@@ -1,4 +1,4 @@
-# Cricketpedia
+### Cricketpedia
 
 This is a URL hashing system designed to overcome the problems of long URLs with UTM tracking that are at risk of getting ruined by formatters. The application generates unique shortened URLs using a hash function and allows click tracking while also making the URLs privacy-aware.
 
